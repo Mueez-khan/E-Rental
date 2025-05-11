@@ -1,0 +1,24 @@
+User register data 
+
+{
+    "userName" : "Mueez khan",
+    "email" : "mueez@gmail.com",
+    "phoneNumber" : "03439090861",
+    "accountType": "Owner",
+    "password" : "Khan",
+    "confirmPassword" : "Khan"
+
+}
+
+
+User login 
+
+
+ "email" : "mueez@gmail.com",
+ "password" : "Khan"
+
+
+Property type 
+create property 
+
+

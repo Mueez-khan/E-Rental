@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif; /* Choose a clean font */
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Georgia', serif; /* Give headings a more elegant font */
+  }
+  
+  .bg-white {
+    background-color: #ffffff; /* A classic white background */
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* More prominent shadow */
+  }
+  
+  /* Hover effect for the main plot image */
+  img:hover {
+    opacity: 0.9; /* Subtle effect on hover */
+  }
+  
+  /* styles.css */
+h1, h2, h3 {
+    font-family: 'Georgia', serif; /* Elegance for headings */
+  }
+  
+  .bg-white {
+    background-color: #ffffff; /* Classic white background */
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); /* More prominent shadow */
+  }
+  
+  /* Hover effect for the main plot image */
+  img:hover {
+    opacity: 0.9; /* Subtle effect on hover */
+  }
+  

@@ -1,0 +1,20 @@
+Register user ( login )
+
+All schemas ( user , plot etc)
+
+
+
+
+
+
+
+
+Personal enhancements :
+
+
+1 : Phone detail is depend on user if want to show it or not.
+
+2 : chat feature
+
+
+
